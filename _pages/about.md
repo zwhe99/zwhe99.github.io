@@ -151,8 +151,8 @@ Yiming Ai, **Zhiwei He**, Kai Yu, Rui Wang
 # 💻 Internships
 - *2021 - present*: [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), Shenzhen, Mentors: [Dr. Xing Wang](http://www.xingwang4nlp.com/) and [Dr. Zhaopeng Tu](http://www.zptu.net/).
 
-<p align="center">   </p>
-<p align="center">   </p>
-<p align="center">   </p>
-<p align="center">   </p>
-<p align="center"><a href='https://clustrmaps.com/site/1buod'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=wrVdBNFzLxaWLvwSCyCmHsqwS2ECsylNIejFIQfnD2A&co=2d78ad&ct=ffffff'/></a></p>
+<p align="center" style="padding-top: 20px;">
+    <a href='https://clustrmaps.com/site/1buod' title='Visit tracker'>
+        <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=wrVdBNFzLxaWLvwSCyCmHsqwS2ECsylNIejFIQfnD2A&co=2d78ad&ct=ffffff'/>
+    </a>
+</p>
