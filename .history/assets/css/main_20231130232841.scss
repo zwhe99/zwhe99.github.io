@@ -108,6 +108,11 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.author__zh__name {
+    font-family: 'KaiTi', '楷体', serif;
+}
+
+
 .copy-btn {
     background-color: #133599; /* 蓝色背景 */
     color: white; /* 白色文字 */
@@ -141,7 +146,7 @@ h1:before, .anchor:before {
 }
 
 .tooltip-content {
-    font-size: 60%;
+    font-size: 70%;
     position: fixed;
     padding: 8px 12px;
     background-color: #f9f9f9; /* 轻灰色背景 */
