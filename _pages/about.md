@@ -145,7 +145,7 @@ Yiming Ai, **Zhiwei He**, Kai Yu, Rui Wang
 - *2018, 2019*: First Class Scholarship.
 
 # 💬 Invited Talks
-- *2023.11*: Improving Machine Translation with Human Strategy and Feedback, CJNLP \| [\[slide\]](talks/CJNLP/CJNLP.key)
+- *2023.11*: Improving Machine Translation with Human Strategy and Feedback, CJNLP \| [\[slide\]](talks/CJNLP/CJNLP.pdf)
 - *2022.08*: Unsupervised Neural Machine Translation, CCKS 2022
 
 # 💻 Internships
