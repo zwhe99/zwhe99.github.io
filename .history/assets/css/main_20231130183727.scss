@@ -158,6 +158,11 @@ h1:before, .anchor:before {
     white-space: pre-wrap; /* 保留空白符 */ 
 }
 
+/* 默认样式，适用于桌面和大屏设备 */
+.copy-btn, .tooltip-content {
+    display: block;
+}
+
 /* 媒体查询，适用于小屏幕/移动设备 */
 @media screen and (max-width: 768px) {
     .copy-btn, .tooltip-content {

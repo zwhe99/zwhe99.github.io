@@ -108,6 +108,18 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+/* 默认样式，适用于桌面和大屏设备 */
+.copy-btn, .tooltip-content {
+    display: block;
+}
+
+/* 媒体查询，适用于小屏幕/移动设备 */
+@media screen and (max-width: 768px) {
+    .copy-btn, .tooltip-content {
+        display: none;
+    }
+}
+
 .copy-btn {
     background-color: #133599; /* 蓝色背景 */
     color: white; /* 白色文字 */
@@ -156,11 +168,4 @@ h1:before, .anchor:before {
     overflow: hidden; /* 防止内容溢出 */
     text-overflow: ellipsis; /* 文本溢出显示省略号 */
     white-space: pre-wrap; /* 保留空白符 */ 
-}
-
-/* 媒体查询，适用于小屏幕/移动设备 */
-@media screen and (max-width: 768px) {
-    .copy-btn, .tooltip-content {
-        display: none;
-    }
 }

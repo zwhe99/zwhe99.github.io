@@ -157,10 +157,3 @@ h1:before, .anchor:before {
     text-overflow: ellipsis; /* 文本溢出显示省略号 */
     white-space: pre-wrap; /* 保留空白符 */ 
 }
-
-/* 媒体查询，适用于小屏幕/移动设备 */
-@media screen and (max-width: 768px) {
-    .copy-btn, .tooltip-content {
-        display: none;
-    }
-}
