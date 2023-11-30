@@ -107,6 +107,19 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 默认样式，适用于桌面和大屏设备 */
+.copy-btn, .tooltip-content {
+    display: block;
+}
+
+/* 媒体查询，适用于小屏幕/移动设备 */
+@media screen and (max-width: 768px) {
+    .copy-btn, .tooltip-content {
+        display: none;
+    }
+}
+
 .copy-btn {
     background-color: #133599; /* 蓝色背景 */
     color: white; /* 白色文字 */
