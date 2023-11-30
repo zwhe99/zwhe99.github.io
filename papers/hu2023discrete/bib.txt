@@ -1,0 +1,9 @@
+@article{hu2023discrete,
+  title={Discrete limited attentional collaborative filtering for fast social recommendation},
+  author={Hu, Zhibin and Zhou, Xuebin and He, Zhiwei and Yang, Zehang and Chen, Jian and Huang, Jin},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={123},
+  pages={106437},
+  year={2023},
+  publisher={Elsevier}
+}

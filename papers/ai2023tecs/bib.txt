@@ -1,0 +1,6 @@
+@article{ai2023tecs,
+  title={TeCS: A Dataset and Benchmark for Tense Consistency of Machine Translation},
+  author={Ai, Yiming and He, Zhiwei and Yu, Kai and Wang, Rui},
+  journal={arXiv preprint arXiv:2305.13740},
+  year={2023}
+}

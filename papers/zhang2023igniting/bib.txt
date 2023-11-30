@@ -1,0 +1,8 @@
+@misc{zhang2023igniting,
+      title={Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents}, 
+      author={Zhuosheng Zhang and Yao Yao and Aston Zhang and Xiangru Tang and Xinbei Ma and Zhiwei He and Yiming Wang and Mark Gerstein and Rui Wang and Gongshen Liu and Hai Zhao},
+      year={2023},
+      eprint={2311.11797},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
