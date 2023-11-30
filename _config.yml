@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhiwei He"
-  zh_name          : "何志威"
+  zhname          : "何志威"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD Student @ SJTU"
   location         : "Shanghai, China"
