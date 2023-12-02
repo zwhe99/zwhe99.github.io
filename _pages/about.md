@@ -95,7 +95,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
   Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, **Zhiwei He**, Tian Liang, Xing Wang, Shuming Shi, Zhaopeng Tu
 
 
-  ``EMNLP 2023`` \| <a href='https://github.com/wxjiao/ParroT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="jiao2023parrot">BIB</button>
+  ``EMNLP 2023`` \| <a href='https://github.com/wxjiao/ParroT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="jiao2023parrot">BIB</button> <a href='papers/jiao2023parrot/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
 - [TeCS: A Dataset and Benchmark for Tense Consistency of Machine Translation](https://arxiv.org/abs/2305.13740)
 
