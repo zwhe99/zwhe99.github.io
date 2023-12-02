@@ -101,7 +101,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
   Yiming Ai, **Zhiwei He**, Kai Yu, Rui Wang
 
-  ``ACL 2023`` \| <a href='https://github.com/rutilel/TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="ai2023tecs">BIB</button>
+  ``ACL 2023`` \| <a href='https://github.com/rutilel/TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="ai2023tecs">BIB</button> <a href='papers/ai2023tecs/poster.pdf'><button class="poster-btn">POSTER</button></a>
 
 - [Tencent AI Lab-Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task](https://arxiv.org/abs/2210.08742)
 
