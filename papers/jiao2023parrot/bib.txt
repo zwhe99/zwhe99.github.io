@@ -1,0 +1,6 @@
+@inproceedings{jiao2023parrot,
+  title={ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback}, 
+  author={Wenxiang Jiao and Jen-tse Huang and Wenxuan Wang and Zhiwei He and Tian Liang and Xing Wang and Shuming Shi and Zhaopeng Tu},
+  booktitle = {Findings of EMNLP},
+  year      = {2023}
+}

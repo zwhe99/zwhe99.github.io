@@ -109,7 +109,7 @@ h1:before, .anchor:before {
 }
 
 .copy-btn {
-    background-color: #133599; /* 蓝色背景 */
+    background-color: #a5cec2; /* 蓝色背景 */
     color: white; /* 白色文字 */
     padding: 0.12rem 0.37rem; /* 减少内部填充来缩小按钮 */
     font-size: 0.775rem; /* 减小字体大小 */
@@ -128,17 +128,115 @@ h1:before, .anchor:before {
 }
 
 .copy-btn:hover {
-    background-color: lighten(#133599, 10%); /* 鼠标悬停时的背景颜色加深 */
+    background-color: darken(#a5cec2, 10%); /* 鼠标悬停时的背景颜色加深 */
 }
 
 .copy-btn:focus, .copy-btn.focus {
-    box-shadow: 0 0 0 0.2rem rgba(19, 53, 153, 0.5); /* 焦点时的阴影效果 */
+    box-shadow: 0 0 0 0.2rem rgba(173, 205, 194, 0.5); /* 焦点时的阴影效果 */
 }
 
 .copy-btn:disabled, .copy-btn.disabled {
     background-color: #6c757d; /* 禁用时的背景颜色 */
     border-color: #6c757d; /* 禁用时的边框颜色 */
 }
+
+.code-btn {
+    background-color: #94c2fa; /* 蓝色背景 */
+    color: white; /* 白色文字 */
+    padding: 0.12rem 0.37rem; /* 减少内部填充来缩小按钮 */
+    font-size: 0.775rem; /* 减小字体大小 */
+    line-height: 1.2; /* 调整行高 */
+    border-radius: 0.2rem; /* 减少圆角半径 */
+    border: 1px solid transparent; /* 透明边框 */
+    cursor: pointer; /* 鼠标悬停时的手形光标 */
+    transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; /* 过渡效果 */
+    text-align: center; /* 文字居中 */
+    vertical-align: middle; /* 垂直居中 */
+    user-select: none; /* 防止选中文本 */
+    display: inline-block; /* 行内块显示 */
+    margin: 0; /* 移除外边距 */
+    overflow: visible; /* 防止内容被剪切 */
+    text-transform: none; /* 默认文字大小写 */
+}
+
+.code-btn:hover {
+    background-color: darken(#94c2fa, 10%); /* 鼠标悬停时的背景颜色加深 */
+}
+
+.code-btn:focus, .code-btn.focus {
+    box-shadow: 0 0 0 0.2rem rgba(157, 193, 245, 0.5); /* 焦点时的阴影效果 */
+}
+
+.code-btn:disabled, .code-btn.disabled {
+    background-color: #6c757d; /* 禁用时的背景颜色 */
+    border-color: #6c757d; /* 禁用时的边框颜色 */
+}
+
+.poster-btn {
+    background-color: #e8b6bc; /* 蓝色背景 */
+    color: white; /* 白色文字 */
+    padding: 0.12rem 0.37rem; /* 减少内部填充来缩小按钮 */
+    font-size: 0.775rem; /* 减小字体大小 */
+    line-height: 1.2; /* 调整行高 */
+    border-radius: 0.2rem; /* 减少圆角半径 */
+    border: 1px solid transparent; /* 透明边框 */
+    cursor: pointer; /* 鼠标悬停时的手形光标 */
+    transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; /* 过渡效果 */
+    text-align: center; /* 文字居中 */
+    vertical-align: middle; /* 垂直居中 */
+    user-select: none; /* 防止选中文本 */
+    display: inline-block; /* 行内块显示 */
+    margin: 0; /* 移除外边距 */
+    overflow: visible; /* 防止内容被剪切 */
+    text-transform: none; /* 默认文字大小写 */
+}
+
+.poster-btn:hover {
+    background-color: darken(#e8b6bc, 10%); /* 鼠标悬停时的背景颜色加深 */
+}
+
+.poster-btn:focus, .poster-btn.focus {
+    box-shadow: 0 0 0 0.2rem rgba(224, 184, 188, 0.5); /* 焦点时的阴影效果 */
+}
+
+.poster-btn:disabled, .poster-btn.disabled {
+    background-color: #6c757d; /* 禁用时的背景颜色 */
+    border-color: #6c757d; /* 禁用时的边框颜色 */
+}
+
+.slide-btn {
+    background-color: #d7c5ed; /* 蓝色背景 */
+    color: white; /* 白色文字 */
+    padding: 0.12rem 0.37rem; /* 减少内部填充来缩小按钮 */
+    font-size: 0.775rem; /* 减小字体大小 */
+    line-height: 1.2; /* 调整行高 */
+    border-radius: 0.2rem; /* 减少圆角半径 */
+    border: 1px solid transparent; /* 透明边框 */
+    cursor: pointer; /* 鼠标悬停时的手形光标 */
+    transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; /* 过渡效果 */
+    text-align: center; /* 文字居中 */
+    vertical-align: middle; /* 垂直居中 */
+    user-select: none; /* 防止选中文本 */
+    display: inline-block; /* 行内块显示 */
+    margin: 0; /* 移除外边距 */
+    overflow: visible; /* 防止内容被剪切 */
+    text-transform: none; /* 默认文字大小写 */
+}
+
+.slide-btn:hover {
+    background-color: darken(#d7c5ed, 10%); /* 鼠标悬停时的背景颜色加深 */
+}
+
+.slide-btn:focus, .slide-btn.focus {
+    box-shadow: 0 0 0 0.2rem rgba(212, 198, 234, 0.5); /* 焦点时的阴影效果 */
+}
+
+.slide-btn:disabled, .slide-btn.disabled {
+    background-color: #6c757d; /* 禁用时的背景颜色 */
+    border-color: #6c757d; /* 禁用时的边框颜色 */
+}
+
+
 
 .tooltip-content {
     font-size: 80%;

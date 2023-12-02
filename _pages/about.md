@@ -52,8 +52,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, **Zhiwei He**, Yiming Wang, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
 
-[![](https://img.shields.io/github/stars/Zoeyyao27/CoT-Igniting-Agent?style=social&logo=github&label=CoT-Igniting-Agent)](https://github.com/Zoeyyao27/CoT-Igniting-Agent)
-<button class="copy-btn" data-bib-file="zhang2023igniting">Copy BIB</button>
+<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhang2023igniting">BIB</button>
 
 - A journey from CoT to language agent.
 </div>
@@ -66,8 +65,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, **Zhiwei He**, Y
 
 Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
 
-[![](https://img.shields.io/github/stars/Skytliang/Multi-Agents-Debate?style=social&logo=github&label=Multi-Agents-Debate)](https://github.com/Skytliang/Multi-Agents-Debate)
-<button class="copy-btn" data-bib-file="liang2023encouraging">Copy BIB</button>
+<a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button>
 
 - Yes. Multi-agent debate.
 </div>
@@ -82,9 +80,9 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
 **Zhiwei He**\*, Tian Liang\*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang
 
-[![](https://img.shields.io/github/stars/zwhe99/MAPS-mt?style=social&logo=github&label=MAPS-mt)](https://github.com/zwhe99/MAPS-mt)
+<a href='https://github.com/zwhe99/MAPS-mt'><button class="code-btn">CODE</button></a>
+<button class="copy-btn" data-bib-file="he2023exploring">BIB</button>
 [![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue)](https://huggingface.co/spaces/zwhe99/MAPS-mt)
-<button class="copy-btn" data-bib-file="he2023exploring">Copy BIB</button>
 
 - We propose MAPS, the first machine translation system that mimics human translation strategies.
 - Outperforms WMT22 winners in 5 out of 11 translation directions.
@@ -92,52 +90,34 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='papers/ai2023tecs/fig.png' alt="ai2023tecs" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[TeCS: A Dataset and Benchmark for Tense Consistency of Machine Translation](https://arxiv.org/abs/2305.13740)
+- [ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback](https://arxiv.org/abs/2304.02426)
+
+  Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, **Zhiwei He**, Tian Liang, Xing Wang, Shuming Shi, Zhaopeng Tu
 
 
-Yiming Ai, **Zhiwei He**, Kai Yu, Rui Wang
+  ``EMNLP 2023`` \| <a href='https://github.com/wxjiao/ParroT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="jiao2023parrot">BIB</button>
 
-[![](https://img.shields.io/github/stars/rutilel/TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency?style=social&logo=github&label=Dataset)](https://github.com/rutilel/TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency)
-<button class="copy-btn" data-bib-file="ai2023tecs">Copy BIB</button>
+- [TeCS: A Dataset and Benchmark for Tense Consistency of Machine Translation](https://arxiv.org/abs/2305.13740)
 
-- The first dataset targeting tense consistency of machine translation.
-</div>
+  Yiming Ai, **Zhiwei He**, Kai Yu, Rui Wang
 
-</div>
+  ``ACL 2023`` \| <a href='https://github.com/rutilel/TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="ai2023tecs">BIB</button>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMT 2022</div><img src='papers/he-etal-2022-tencent/fig.png' alt="he-etal-2022-tencent" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Tencent AI Lab-Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task](https://arxiv.org/abs/2210.08742)
+- [Tencent AI Lab-Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task](https://arxiv.org/abs/2210.08742)
 
+  **Zhiwei He**, Xing Wang, Zhaopeng Tu, Shuming Shi, Rui Wang
 
-**Zhiwei He**, Xing Wang, Zhaopeng Tu, Shuming Shi, Rui Wang
+  ``WMT 2022`` \| <a href='https://github.com/zwhe99/WMT22-En-Liv'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he-etal-2022-tencent">BIB</button> <a href='papers/he-etal-2022-tencent/poster.pdf'><button class="poster-btn">POSTER</button></a>
+  
+  * Machine translation system for [Livonian](https://en.wikipedia.org/wiki/Livonian_language)
+  * 🥇1st place for English$\Rightarrow$Livonian (unconstrained system)
+  * 🥈2nd place for Livonian$\Rightarrow$English (unconstrained system)
 
-[![](https://img.shields.io/github/stars/zwhe99/WMT22-En-Liv?style=social&logo=github&label=WMT22-En-Liv)](https://github.com/zwhe99/WMT22-En-Liv)
-<button class="copy-btn" data-bib-file="he-etal-2022-tencent">Copy BIB</button>
+- [Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation](https://arxiv.org/abs/2203.08394)
 
-- Machine translation system for [Livonian](https://en.wikipedia.org/wiki/Livonian_language)
-- 🥇1st place for English$\Rightarrow$Livonian (unconstrained system)
-- 🥈2nd place for Livonian$\Rightarrow$English (unconstrained system)
+  **Zhiwei He**, Xing Wang, Rui Wang, Shuming Shi, Zhaopeng Tu
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='papers/he-etal-2022-bridging/fig.png' alt="he-etal-2022-bridging" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation](https://arxiv.org/abs/2203.08394)
-
-
-**Zhiwei He**, Xing Wang, Rui Wang, Shuming Shi, Zhaopeng Tu
-
-[![](https://img.shields.io/github/stars/zwhe99/SelfTraining4UNMT?style=social&logo=github&label=SelfTraining4UNMT)](https://github.com/zwhe99/SelfTraining4UNMT)
-<button class="copy-btn" data-bib-file="he-etal-2022-bridging">Copy BIB</button>
-
-- Unsupervised neural machine translation.
-- Bridging the gap between training signal and real user input.
-</div>
-</div>
+  ``ACL 2022`` \| <a href='https://github.com/zwhe99/SelfTraining4UNMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he-etal-2022-bridging">BIB</button> <a href='papers/he-etal-2022-bridging/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he-etal-2022-bridging/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
 # 🎖 Honors and Awards
 - *2022.8*: 1st place in the WMT22 General Translation Task, English to Livonian (Unconstrained System).
