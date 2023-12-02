@@ -71,6 +71,14 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 </div>
 </div>
 
+- [Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models](https://arxiv.org/abs/2310.20499)
+
+  Tian Liang, **Zhiwei He**, Jen-tse Huang, Wenxuan Wang, Wenxiang Jiao, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi, Xing Wang
+
+
+  ``arXiv 2023`` \| <a href='https://github.com/Skytliang/SpyGame'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023spygame">BIB</button>
+
+
 # 📝 Publications 
 \* denotes co-first authors
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2024</div><img src='papers/he2023exploring/fig.png' alt="he2023exploring" width="100%"></div></div>
