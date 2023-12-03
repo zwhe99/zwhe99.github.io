@@ -11,11 +11,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 .then(text => {
                     navigator.clipboard.writeText(text).then(() => {
                         this.textContent = 'Copied'; // 更改按钮文字为 "Copied"
-                        setTimeout(() => { this.textContent = originalText; }, 500); // 2秒后恢复原始文字
+                        setTimeout(() => { this.textContent = originalText; }, 0); // 0秒后恢复原始文字
                     }).catch(err => {
                         console.error('Copy failed: ', err);
                         this.textContent = 'Copy failed'; // 更改按钮文字为 "Copy failed"
-                        setTimeout(() => { this.textContent = originalText; }, 500);
+                        setTimeout(() => { this.textContent = originalText; }, 0);
                     });
                 });
         });
