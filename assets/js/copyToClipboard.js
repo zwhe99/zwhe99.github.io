@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     var tooltip; // 定义一个变量来存储悬浮窗口元素
+    var timeoutId; // 定义一个变量来存储计时器 ID
     document.querySelectorAll('.copy-btn').forEach(button => {
         button.addEventListener('click', function() {
             var originalText = this.textContent; // 保存原始按钮文字
@@ -19,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     });
                 });
         });
-        button.addEventListener('mouseover', function() {
+        button.addEventListener('mouseenter', function() {
             // 如果悬浮窗口还未创建，那么创建它
             if (!tooltip) {
                 tooltip = document.createElement('div');
@@ -51,12 +52,22 @@ document.addEventListener('DOMContentLoaded', function() {
             
         });
 
-        button.addEventListener('mouseout', function() {
+        button.addEventListener('mouseleave', function() {
             // 隐藏悬浮窗口
             if (tooltip) {
                 tooltip.style.visibility = 'hidden';
             }
         });
 
+        window.addEventListener('scroll', function() {
+            // 清除之前的计时器
+            clearTimeout(timeoutId);
+            // 延迟一段时间后隐藏悬浮窗口
+            timeoutId = setTimeout(function() {
+                if (tooltip) {
+                    tooltip.style.visibility = 'hidden';
+                }
+            }, 100); // 200毫秒延迟
+        });
     });
 });
