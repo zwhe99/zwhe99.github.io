@@ -52,7 +52,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, **Zhiwei He**, Yiming Wang, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
 
-<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhang2023igniting">BIB</button>
+<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="zhang2023igniting">BIB</button>
 
 - A journey from CoT to language agent.
 </div>
@@ -109,7 +109,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
   Yiming Ai, **Zhiwei He**, Kai Yu, Rui Wang
 
-  ``ACL 2023`` \| <a href='https://github.com/rutilel/TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="ai2023tecs">BIB</button> <a href='papers/ai2023tecs/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/ai2023tecs/slide.pdf'><button class="slide-btn">SLIDE</button></a>
+  ``ACL 2023`` \| <a href='https://github.com/rutilel/TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency'><button class="code-btn">DATA</button></a> <button class="copy-btn" data-bib-file="ai2023tecs">BIB</button> <a href='papers/ai2023tecs/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/ai2023tecs/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
 - [Tencent AI Lab-Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task](https://arxiv.org/abs/2210.08742)
 
