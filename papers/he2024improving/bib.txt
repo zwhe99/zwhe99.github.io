@@ -1,0 +1,6 @@
+@article{he2024improving,
+  title={Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model},
+  author={Zhiwei He, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu},
+  journal={arXiv preprint arXiv:2401.12873},
+  year={2024}
+}

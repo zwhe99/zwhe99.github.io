@@ -25,51 +25,65 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 **Autonomous Agent powered by Large Language Models**
 
-* Multi-agent debate [Preprint]
+* Multi-agent debate [Pre-print]
+* Evaluating and improving agent safety [Pre-print]
 
 **Human-centered Machine Translation**
 
 * Bridging the gap between training signal and real user input [ACL 2022]
 * Human-like translation strategy [TACL 2024]
-* Improving translation with human feedback
+* Improving translation with human feedback [Pre-print]
 
 
 
 
 # 🔥 News
 - *2023.11*: 🎉🎉 One paper about human-like translation strategy is accepted by [TACL 2024](https://transacl.org/index.php/tacl).
-- *2023.05*: We introduce the [MAPS](https://github.com/zwhe99/MAPS-mt) framework, enabling LLMs to mimic the human translation strategy. See also the [media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/) 📸 and [demo](https://huggingface.co/spaces/zwhe99/MAPS-mt).
+- *2023.05*: We introduce the [MAPS](https://github.com/zwhe99/MAPS-mt) framework, enabling LLMs to mimic the human translation strategy. See also the [media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/) 📸.
 - *2023.05*: We propose multi-agent debate framework ([MAD](https://github.com/Skytliang/Multi-Agents-Debate)) with large language models [(preprint)](https://arxiv.org/abs/2305.19118).
 - *2023.05*: One short paper about tense consistency of machine translation is accepted by [ACL 2023](https://2023.aclweb.org/).
 
 <span class='anchor' id='preprints'></span>
 # 🖨️ Preprints
 \* denotes co-first authors
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='papers/zhang2023igniting/fig.png' alt="zhang2023igniting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/he2024improving/fig.png' alt="he2024improving" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
+[Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model](https://arxiv.org/abs/2401.12873)
 
 
-Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, **Zhiwei He**, Yiming Wang, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
+**Zhiwei He**, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu
 
-<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="zhang2023igniting">BIB</button>
+<button class="copy-btn" data-bib-file="he2024improving">BIB</button>
 
-- A journey from CoT to language agent.
+- We identify the *overoptimization* problem when using QE-based reward models for training translation model.
+- We address it with a simple yet effective method.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='papers/liang2023encouraging/fig.png' alt="liang2023encouraging" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/yuan2024rjudge/fig.png' alt="yuan2024rjudge" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)
+[R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)
 
 
-Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
+Tongxin Yuan\*, **Zhiwei He**\*, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu, Binglin Zhou, Fangqi Li, Zhuosheng Zhang, Rui Wang, Gongshen Liu
 
-<a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button>
+<a href='https://github.com/Lordog/R-Judge'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="yuan2024rjudge">BIB</button>
 
-- Yes. Multi-agent debate.
+- A benchmark for agent safety awareness.
 </div>
 </div>
+
+- [Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
+
+  Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, **Zhiwei He**, Yiming Wang, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
+
+  ``arXiv 2023`` \| <a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="zhang2023igniting">BIB</button>
+
+- [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)
+
+  Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
+
+  ``arXiv 2023`` \| <a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button>
 
 - [Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models](https://arxiv.org/abs/2310.20499)
 
@@ -90,7 +104,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
 <a href='https://github.com/zwhe99/MAPS-mt'><button class="code-btn">CODE</button></a>
 <button class="copy-btn" data-bib-file="he2023exploring">BIB</button>
-[![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue)](https://huggingface.co/spaces/zwhe99/MAPS-mt)
+
 
 - We propose MAPS, the first machine translation system that mimics human translation strategies.
 - Outperforms WMT22 winners in 5 out of 11 translation directions.
