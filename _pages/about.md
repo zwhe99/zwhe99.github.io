@@ -38,8 +38,6 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
-- *2024.01*: [New preprint](https://arxiv.org/abs/2401.10019): R-Judge: Benchmarking Safety Risk Awareness for LLM Agents
-- *2024.01*: [New preprint](https://arxiv.org/abs/2401.12873): Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model
 - *2023.11*: 🎉🎉 One paper about human-like translation strategy is accepted by [TACL 2024](https://transacl.org/index.php/tacl).
 - *2023.05*: We introduce the [MAPS](https://github.com/zwhe99/MAPS-mt) framework, enabling LLMs to mimic the human translation strategy. See also the [media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/) 📸.
 - *2023.05*: We propose multi-agent debate framework ([MAD](https://github.com/Skytliang/Multi-Agents-Debate)) with large language models [(preprint)](https://arxiv.org/abs/2305.19118).
