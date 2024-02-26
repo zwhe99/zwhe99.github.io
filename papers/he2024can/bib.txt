@@ -1,0 +1,6 @@
+@article{he2024can,
+  title={Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models},
+  author={He, Zhiwei and Zhou, Binglin and Hao, Hongkun and Liu, Aiwei and Wang, Xing and Tu, Zhaopeng and Zhang, Zhuosheng and Wang, Rui},
+  journal={arXiv preprint arXiv:2402.14007},
+  year={2024}
+}
