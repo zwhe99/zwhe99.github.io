@@ -28,6 +28,10 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 * Multi-agent debate [Pre-print]
 * Evaluating and improving agent safety [Pre-print]
 
+**Watermark for Large Language Models**
+
+* Cross-lingual consistency for text watermark [Pre-print]
+
 **Human-centered Machine Translation**
 
 * Bridging the gap between training signal and real user input [ACL 2022]
@@ -44,8 +48,22 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 - *2023.05*: One short paper about tense consistency of machine translation is accepted by [ACL 2023](https://2023.aclweb.org/).
 
 <span class='anchor' id='preprints'></span>
-# 🖨️ Preprints
+# 🖨️ Selected preprints
 \* denotes co-first authors
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/he2024can/fig.png' alt="he2024can" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
+
+
+**Zhiwei He**\*, Binglin Zhou\*, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
+
+<a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a>
+
+- Text watermarks can be easily removed by translation.
+- We analyze and improve the cross-lingual consistency of text watermarks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/he2024improving/fig.png' alt="he2024improving" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model](https://arxiv.org/abs/2401.12873)
@@ -53,7 +71,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 **Zhiwei He**, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu
 
-<button class="copy-btn" data-bib-file="he2024improving">BIB</button>
+<a href='https://github.com/zwhe99/FeedbackMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024improving">BIB</button>
 
 - We identify the *overoptimization* problem when using QE-based reward models for training translation model.
 - We address it with a simple yet effective method.
@@ -67,31 +85,24 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 Tongxin Yuan\*, **Zhiwei He**\*, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu, Binglin Zhou, Fangqi Li, Zhuosheng Zhang, Rui Wang, Gongshen Liu
 
-<a href='https://github.com/Lordog/R-Judge'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="yuan2024rjudge">BIB</button>
+<a href='https://github.com/Lordog/R-Judge'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="yuan2024rjudge">BIB</button> <a href='https://rjudgebench.github.io/'><button class="home-btn">HOME</button></a>
 
-- A benchmark for agent safety awareness.
+- Are LLM agents aware of safety risks in real-world applications? Let's find out with R-Judge!
 </div>
 </div>
 
-- [Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
-
-  Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, **Zhiwei He**, Yiming Wang, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
-
-  ``arXiv 2023`` \| <a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="zhang2023igniting">BIB</button>
-
-- [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)
-
-  Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
-
-  ``arXiv 2023`` \| <a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button>
-
-- [Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models](https://arxiv.org/abs/2310.20499)
-
-  Tian Liang, **Zhiwei He**, Jen-tse Huang, Wenxuan Wang, Wenxiang Jiao, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi, Xing Wang
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='papers/liang2023encouraging/fig.png' alt="liang2023encouraging" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)
 
 
-  ``arXiv 2023`` \| <a href='https://github.com/Skytliang/SpyGame'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023spygame">BIB</button>
+Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
 
+<a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button>
+
+- We propose a multi-agent debate framework with large language models.
+</div>
+</div>
 
 # 📝 Publications 
 \* denotes co-first authors
@@ -111,19 +122,6 @@ Tongxin Yuan\*, **Zhiwei He**\*, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian 
 - [Media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/)
 </div>
 </div>
-
-- [ParroT: Translating during Chat using Large Language Models tuned with Human Translation and Feedback](https://arxiv.org/abs/2304.02426)
-
-  Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, **Zhiwei He**, Tian Liang, Xing Wang, Shuming Shi, Zhaopeng Tu
-
-
-  ``EMNLP 2023`` \| <a href='https://github.com/wxjiao/ParroT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="jiao2023parrot">BIB</button> <a href='papers/jiao2023parrot/slide.pdf'><button class="slide-btn">SLIDE</button></a>
-
-- [TeCS: A Dataset and Benchmark for Tense Consistency of Machine Translation](https://arxiv.org/abs/2305.13740)
-
-  Yiming Ai, **Zhiwei He**, Kai Yu, Rui Wang
-
-  ``ACL 2023`` \| <a href='https://github.com/rutilel/TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency'><button class="code-btn">DATA</button></a> <button class="copy-btn" data-bib-file="ai2023tecs">BIB</button> <a href='papers/ai2023tecs/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/ai2023tecs/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
 - [Tencent AI Lab-Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task](https://arxiv.org/abs/2210.08742)
 
