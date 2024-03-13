@@ -42,10 +42,10 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
+- *2024.11*: 🎉🎉 One paper about improving translation with human feedback is accepted by [NAACL 2024](https://2024.naacl.org/).
 - *2023.11*: 🎉🎉 One paper about human-like translation strategy is accepted by [TACL 2024](https://transacl.org/index.php/tacl).
 - *2023.05*: We introduce the [MAPS](https://github.com/zwhe99/MAPS-mt) framework, enabling LLMs to mimic the human translation strategy. See also the [media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/) 📸.
 - *2023.05*: We propose multi-agent debate framework ([MAD](https://github.com/Skytliang/Multi-Agents-Debate)) with large language models [(preprint)](https://arxiv.org/abs/2305.19118).
-- *2023.05*: One short paper about tense consistency of machine translation is accepted by [ACL 2023](https://2023.aclweb.org/).
 
 <span class='anchor' id='preprints'></span>
 # 🖨️ Selected preprints
@@ -64,19 +64,6 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/he2024improving/fig.png' alt="he2024improving" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model](https://arxiv.org/abs/2401.12873)
-
-
-**Zhiwei He**, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu
-
-<a href='https://github.com/zwhe99/FeedbackMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024improving">BIB</button>
-
-- We identify the *overoptimization* problem when using QE-based reward models for training translation model.
-- We address it with a simple yet effective method.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/yuan2024rjudge/fig.png' alt="yuan2024rjudge" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,6 +93,20 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
 # 📝 Selected publications 
 \* denotes co-first authors
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='papers/he2024improving/fig.png' alt="he2024improving" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model](https://arxiv.org/abs/2401.12873)
+
+
+**Zhiwei He**, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu
+
+<a href='https://github.com/zwhe99/FeedbackMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024improving">BIB</button>
+
+- We identify the *overoptimization* problem when using QE-based reward models for training translation model.
+- We address it with a simple yet effective method.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2024</div><img src='papers/he2023exploring/fig.png' alt="he2023exploring" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Exploring Human-Like Translation Strategy with Large Language Models](https://arxiv.org/abs/2305.04118)
