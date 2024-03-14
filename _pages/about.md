@@ -36,7 +36,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 * Bridging the gap between training signal and real user input [ACL 2022]
 * Human-like translation strategy [TACL 2024]
-* Improving translation with human feedback [Pre-print]
+* Improving translation with human feedback [NAACL 2024]
 
 
 
