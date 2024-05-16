@@ -30,7 +30,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 **Watermark for Large Language Models**
 
-* Cross-lingual consistency for text watermark [Pre-print]
+* Cross-lingual consistency for text watermark [ACL 2024]
 
 **Human-centered Machine Translation**
 
@@ -42,6 +42,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
+- *2024.05*: 🎉🎉 One paper about cross-lingual text watermark is accepted by [ACL 2024](https://2024.aclweb.org/).
 - *2024.03*: 🎉🎉 One paper about improving translation with human feedback is accepted by [NAACL 2024](https://2024.naacl.org/).
 - *2023.11*: 🎉🎉 One paper about human-like translation strategy is accepted by [TACL 2024](https://transacl.org/index.php/tacl).
 - *2023.05*: We introduce the [MAPS](https://github.com/zwhe99/MAPS-mt) framework, enabling LLMs to mimic the human translation strategy. See also the [media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/) 📸.
@@ -50,21 +51,6 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 <span class='anchor' id='preprints'></span>
 # 🖨️ Selected preprints
 \* denotes co-first authors
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/he2024can/fig.png' alt="he2024can" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
-
-
-**Zhiwei He**\*, Binglin Zhou\*, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
-
-<a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/he2024can/slide.pdf'><button class="slide-btn">SLIDE</button></a>
-
-- Text watermarks can be easily removed by translation.
-- We analyze and improve the cross-lingual consistency of text watermarks.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/yuan2024rjudge/fig.png' alt="yuan2024rjudge" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)
@@ -93,6 +79,19 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
 # 📝 Selected publications 
 \* denotes co-first authors
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='papers/he2024can/fig.png' alt="he2024can" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
+
+**Zhiwei He**\*, Binglin Zhou\*, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
+
+<a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/he2024can/slide.pdf'><button class="slide-btn">SLIDE</button></a>
+
+- Text watermarks can be easily removed by translation.
+- We analyze and improve the cross-lingual consistency of text watermarks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='papers/he2024improving/fig.png' alt="he2024improving" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model](https://arxiv.org/abs/2401.12873)
@@ -107,22 +106,15 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2024</div><img src='papers/he2023exploring/fig.png' alt="he2023exploring" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Exploring Human-Like Translation Strategy with Large Language Models](https://arxiv.org/abs/2305.04118)
+- [Exploring Human-Like Translation Strategy with Large Language Models](https://arxiv.org/abs/2305.04118)
 
+  **Zhiwei He**\*, Tian Liang\*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang
 
-**Zhiwei He**\*, Tian Liang\*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang
-
-<a href='https://github.com/zwhe99/MAPS-mt'><button class="code-btn">CODE</button></a>
-<button class="copy-btn" data-bib-file="he2023exploring">BIB</button>
-
-
-- We propose MAPS, the first machine translation system that mimics human translation strategies.
-- Outperforms WMT22 winners in 5 out of 11 translation directions.
-- [Media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/)
-</div>
-</div>
+  ``TACL 2024`` \| <a href='https://github.com/zwhe99/MAPS-mt'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2023exploring">BIB</button> <a href='papers/he2023exploring/poster.pdf'><button class="poster-btn">POSTER</button></a>
+  
+  * We propose MAPS, the first machine translation system that mimics human translation strategies.
+  * Outperforms WMT22 winners in 5 out of 11 translation directions.
+  * [Media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/)
 
 - [Tencent AI Lab-Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task](https://arxiv.org/abs/2210.08742)
 
