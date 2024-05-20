@@ -58,7 +58,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 Tongxin Yuan\*, **Zhiwei He**\*, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu, Binglin Zhou, Fangqi Li, Zhuosheng Zhang, Rui Wang, Gongshen Liu
 
-<a href='https://github.com/Lordog/R-Judge'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="yuan2024rjudge">BIB</button> <a href='https://rjudgebench.github.io/'><button class="home-btn">HOME</button></a>
+<a href='https://github.com/Lordog/R-Judge'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="yuan2024rjudge">BIB</button> <a href='https://rjudgebench.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/yuan2024rjudge/poster.pdf'><button class="poster-btn">POSTER</button></a>
 
 - Are LLM agents aware of safety risks in real-world applications? Let's find out with R-Judge!
 </div>
