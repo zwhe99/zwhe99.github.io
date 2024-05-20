@@ -99,7 +99,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
 **Zhiwei He**, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu
 
-<a href='https://github.com/zwhe99/FeedbackMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024improving">BIB</button> <a href='papers/he2024improving/poster.pdf'><button class="poster-btn">POSTER</button></a>
+<a href='https://github.com/zwhe99/FeedbackMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024improving">BIB</button> <a href='papers/he2024improving/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he2024improving/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
 - We identify the *overoptimization* problem when using QE-based reward models for training translation model.
 - We address it with a simple yet effective method.
@@ -110,7 +110,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
   **Zhiwei He**\*, Tian Liang\*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang
 
-  ``TACL 2024`` \| <a href='https://github.com/zwhe99/MAPS-mt'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2023exploring">BIB</button> <a href='papers/he2023exploring/poster.pdf'><button class="poster-btn">POSTER</button></a>
+  ``TACL 2024`` \| <a href='https://github.com/zwhe99/MAPS-mt'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2023exploring">BIB</button> <a href='papers/he2023exploring/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he2023exploring/slide.pdf'><button class="slide-btn">SLIDE</button></a>
   
   * We propose MAPS, the first machine translation system that mimics human translation strategies.
   * Outperforms WMT22 winners in 5 out of 11 translation directions.
