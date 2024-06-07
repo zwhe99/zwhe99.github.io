@@ -1,6 +1,14 @@
 @article{he2023exploring,
-  title={Exploring Human-Like Translation Strategy with Large Language Models},
-  author={He, Zhiwei and Liang, Tian and Jiao, Wenxiang and Zhang, Zhuosheng and Yang, Yujiu and Wang, Rui and Tu, Zhaopeng and Shi, Shuming and Wang, Xing},
-  journal={arXiv preprint arXiv:2305.04118},
-  year={2023}
+    author = {He, Zhiwei and Liang, Tian and Jiao, Wenxiang and Zhang, Zhuosheng and Yang, Yujiu and Wang, Rui and Tu, Zhaopeng and Shi, Shuming and Wang, Xing},
+    title = "{Exploring Human-Like Translation Strategy with Large Language
+                    Models}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {12},
+    pages = {229-246},
+    year = {2024},
+    month = {03},
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00642},
+    url = {https://doi.org/10.1162/tacl\_a\_00642},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00642/2346100/tacl\_a\_00642.pdf},
 }
