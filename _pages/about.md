@@ -42,7 +42,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
-- *2024.06*: 🇲🇽🌮 I am at [NAACL 2024](https://2024.naacl.org/) @ Mexico. It's been a wonderful journey.
+- *2024.06*: 🇲🇽🌮 I am attending [NAACL 2024](https://2024.naacl.org/) @ Mexico. It's been a wonderful journey.
 - *2024.05*: 🎉🎉 One paper about cross-lingual text watermark is accepted by [ACL 2024](https://2024.aclweb.org/).
 - *2024.03*: 🎉🎉 One paper about improving translation with human feedback is accepted by [NAACL 2024](https://2024.naacl.org/).
 - *2023.11*: 🎉🎉 One paper about human-like translation strategy is accepted by [TACL 2024](https://transacl.org/index.php/tacl).
