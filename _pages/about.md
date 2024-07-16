@@ -80,7 +80,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
 # 📝 Selected publications 
 \* denotes co-first authors
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='papers/he2024can/fig.png' alt="he2024can" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Oral)</div><img src='papers/he2024can/fig.png' alt="he2024can" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
 
