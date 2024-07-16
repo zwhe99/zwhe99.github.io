@@ -30,7 +30,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 **Watermark for Large Language Models**
 
-* Cross-lingual consistency for text watermark [ACL 2024]
+* Cross-lingual consistency for text watermark [ACL 2024 (Oral)]
 
 **Human-centered Machine Translation**
 
