@@ -28,15 +28,12 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 * Multi-agent debate [Pre-print]
 * Evaluating and improving agent safety [Pre-print]
 
-**Watermark for Large Language Models**
-
-* Cross-lingual consistency for text watermark [ACL 2024 (Oral)]
-
-**Human-centered Machine Translation**
+**Multilinguality & Machine Translation**
 
 * Bridging the gap between training signal and real user input [ACL 2022]
 * Human-like translation strategy [TACL 2024]
 * Improving translation with human feedback [NAACL 2024]
+* Cross-lingual consistency for text watermark [ACL 2024 (Oral)]
 
 
 
