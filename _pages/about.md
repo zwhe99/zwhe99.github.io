@@ -83,7 +83,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 
 **Zhiwei He**\*, Binglin Zhou\*, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
 
-<a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/he2024can/slide.pdf'><button class="slide-btn">SLIDE</button></a>
+<a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/he2024can/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he2024can/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
 - Text watermarks can be easily removed by translation.
 - We analyze and improve the cross-lingual consistency of text watermarks.
