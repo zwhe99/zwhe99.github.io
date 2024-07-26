@@ -136,6 +136,7 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 - *2018, 2019*: First Class Scholarship.
 
 # 💬 Invited Talks
+- *2024.07*: Can Watermarks Survive Translation, AITIME \| [\[video\]](https://b23.tv/e7NCKTv)
 - *2023.11*: Improving Machine Translation with Human Strategy and Feedback, CJNLP \| [\[slide\]](talks/CJNLP/CJNLP.pdf)
 - *2022.08*: Unsupervised Neural Machine Translation, CCKS 2022
 
