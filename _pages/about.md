@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-I am a third-year PhD student (2021 - present) of [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I am fortunate to be advised by [Prof. Rui Wang](https://wangruinlp.github.io/). Before that, I received the bachelor degree in Software Engineering from South China University of Technology (SCUT). I am currently a research intern at Tencent AI Lab, co-advised by [Dr. Xing Wang](http://www.xingwang4nlp.com/) and [Dr. Zhaopeng Tu](http://www.zptu.net/). I also work closely with [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/).
+I am a forth-year PhD student (2021 - present) of [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I am fortunate to be advised by [Prof. Rui Wang](https://wangruinlp.github.io/). Before that, I received the bachelor degree in Software Engineering from South China University of Technology (SCUT). I am currently a research intern at Tencent AI Lab, co-advised by [Dr. Xing Wang](http://www.xingwang4nlp.com/) and [Dr. Zhaopeng Tu](http://www.zptu.net/). I also work closely with [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/).
 
 
 
@@ -25,8 +25,8 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 **Autonomous Agent powered by Large Language Models**
 
-* Multi-agent debate [Pre-print]
-* Evaluating and improving agent safety [Pre-print]
+* Multi-agent debate [EMNLP 2024]
+* Evaluating and improving agent safety [EMNLP 2024 (Findings)]
 
 **Multilinguality & Machine Translation**
 
@@ -39,6 +39,7 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
+- *2024.08*: 🇹🇭🐘 I give an oral presentation at [ACL 2024](https://2024.aclweb.org/) on cross-lingual text watermark.
 - *2024.06*: 🇲🇽🌮 I am attending [NAACL 2024](https://2024.naacl.org/) @ Mexico. It's been a wonderful journey.
 - *2024.05*: 🎉🎉 One paper about cross-lingual text watermark is accepted by [ACL 2024](https://2024.aclweb.org/).
 - *2024.03*: 🎉🎉 One paper about improving translation with human feedback is accepted by [NAACL 2024](https://2024.naacl.org/).
@@ -46,10 +47,13 @@ I am a third-year PhD student (2021 - present) of [Department of Computer Scienc
 - *2023.05*: We introduce the [MAPS](https://github.com/zwhe99/MAPS-mt) framework, enabling LLMs to mimic the human translation strategy. See also the [media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/) 📸.
 - *2023.05*: We propose multi-agent debate framework ([MAD](https://github.com/Skytliang/Multi-Agents-Debate)) with large language models [(preprint)](https://arxiv.org/abs/2305.19118).
 
-<span class='anchor' id='preprints'></span>
+<!-- <span class='anchor' id='preprints'></span>
 # 🖨️ Selected preprints
+\* denotes co-first authors -->
+
+# 📝 Selected publications 
 \* denotes co-first authors
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/yuan2024rjudge/fig.png' alt="yuan2024rjudge" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Findings)</div><img src='papers/yuan2024rjudge/fig.png' alt="yuan2024rjudge" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)
 
@@ -62,7 +66,7 @@ Tongxin Yuan\*, **Zhiwei He**\*, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='papers/liang2023encouraging/fig.png' alt="liang2023encouraging" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='papers/liang2023encouraging/fig.png' alt="liang2023encouraging" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)
 
@@ -75,8 +79,6 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
 </div>
 </div>
 
-# 📝 Selected publications 
-\* denotes co-first authors
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Oral)</div><img src='papers/he2024can/fig.png' alt="he2024can" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
