@@ -40,6 +40,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
+- *2024.12*: 🎉🎉 One paper about parameter-efficient fine-tuning accepted by [ICLR 2025](https://iclr.cc/Conferences/2025).
 - *2024.12*: 🤯🤯 Revealed overthinking issue in o1-like models ([preprint](https://arxiv.org/abs/2412.21187)).
 - *2024.08*: 🇹🇭🐘 Gave an oral presentation at [ACL 2024](https://2024.aclweb.org/) on cross-lingual text watermark.
 - *2024.06*: 🇲🇽🌮 Attended [NAACL 2024](https://2024.naacl.org/) @ Mexico.
