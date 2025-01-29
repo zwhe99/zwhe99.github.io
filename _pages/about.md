@@ -22,7 +22,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 # 🔬 Research
 
-**Large Reasoning Models**
+**Large and Efficient Reasoning Models**
 
 * Overthinking issue in o1-like models [Preprint]
 * Rank-sharing LoRA [ICLR 2025]
