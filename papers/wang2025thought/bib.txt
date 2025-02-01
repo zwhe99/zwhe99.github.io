@@ -1,0 +1,6 @@
+@article{wang2025thought,
+  title={Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs},
+  author={Wang, Yue and Liu, Qiuzhi and Xu, Jiahao and Liang, Tian and Chen, Xingyu and He, Zhiwei and Song, Linfeng and Yu, Dian and Li, Juntao and Zhang, Zhuosheng and Wang, Rui and Tu, Zhaopeng and Mi, Haitao and Yu, Dong},
+  journal={arXiv preprint arXiv:2501.18585},
+  year={2025}
+}

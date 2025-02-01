@@ -24,6 +24,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 **Large and Efficient Reasoning Models**
 
+* Underthinking issue in o1-like models [Preprint]
 * Overthinking issue in o1-like models [Preprint]
 * Rank-sharing LoRA [ICLR 2025]
 
@@ -41,6 +42,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
+- *2025.01*: 🤯🤯 Revealed underthinking issue in o1-like models ([preprint](https://arxiv.org/abs/2501.18585)).
 - *2024.12*: 🎉🎉 One paper about parameter-efficient fine-tuning accepted by [ICLR 2025](https://iclr.cc/Conferences/2025).
 - *2024.12*: 🤯🤯 Revealed overthinking issue in o1-like models ([preprint](https://arxiv.org/abs/2412.21187)).
 - *2024.08*: 🇹🇭🐘 Gave an oral presentation at [ACL 2024](https://2024.aclweb.org/) on cross-lingual text watermark.
@@ -54,6 +56,21 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 <span class='anchor' id='preprints'></span>
 # 🖨️ Selected preprints
 \* denotes co-first authors
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='papers/wang2025thought/fig.png' alt="wang2025thought" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585)
+
+<font size=2>Yue Wang*, Qiuzhi Liu*, Jiahao Xu*, Tian Liang*, Xingyu Chen*, <b>Zhiwei He</b>*, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu</font>
+
+<button class="copy-btn" data-bib-file="wang2025thought">BIB</button>
+
+o1-like models underthink, which:
+  1. Occur more frequently on harder problems,
+  2. Lead to frequent switching between thoughts without reaching a conclusion,
+  3. Correlate with incorrect responses due to insufficient exploration.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/chen2024not/fig.png' alt="chen2024not" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
@@ -71,58 +88,47 @@ o1-like models overthink, which:
 
 # 📝 Selected publications 
 \* denotes co-first authors
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Findings)</div><img src='papers/yuan2024rjudge/fig.png' alt="yuan2024rjudge" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)
+- [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)
 
+  Tongxin Yuan\*, **Zhiwei He**\*, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu, Binglin Zhou, Fangqi Li, Zhuosheng Zhang, Rui Wang, Gongshen Liu
 
-Tongxin Yuan\*, **Zhiwei He**\*, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu, Binglin Zhou, Fangqi Li, Zhuosheng Zhang, Rui Wang, Gongshen Liu
+  ``EMNLP 2024 (Findings)`` \| <a href='https://github.com/Lordog/R-Judge'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="yuan2024rjudge">BIB</button> <a href='https://rjudgebench.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/yuan2024rjudge/poster.pdf'><button class="poster-btn">POSTER</button></a>
 
-<a href='https://github.com/Lordog/R-Judge'><button class="code-btn">PROJ</button></a> <button class="copy-btn" data-bib-file="yuan2024rjudge">BIB</button> <a href='https://rjudgebench.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/yuan2024rjudge/poster.pdf'><button class="poster-btn">POSTER</button></a>
+  * Are LLM agents aware of safety risks in real-world applications? Let's find out with R-Judge!
+<br>
+<br>
 
-- Are LLM agents aware of safety risks in real-world applications? Let's find out with R-Judge!
-</div>
-</div>
+- [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='papers/liang2023encouraging/fig.png' alt="liang2023encouraging" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)
+  Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
 
+  ``EMNLP 2024`` \| <a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button>
 
-Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
+  * We propose a multi-agent debate framework with large language models.
+<br>
+<br>
 
-<a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button>
+- [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
 
-- We propose a multi-agent debate framework with large language models.
-</div>
-</div>
+  **Zhiwei He**\*, Binglin Zhou\*, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Oral)</div><img src='papers/he2024can/fig.png' alt="he2024can" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
+  ``NAACL 2024`` \| <a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/he2024can/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he2024can/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
-**Zhiwei He**\*, Binglin Zhou\*, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
+  * Text watermarks can be easily removed by translation.
+  * We analyze and improve the cross-lingual consistency of text watermarks.
+<br>
+<br>
 
-<a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a> <a href='papers/he2024can/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he2024can/slide.pdf'><button class="slide-btn">SLIDE</button></a>
+- [Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model](https://arxiv.org/abs/2401.12873)
 
-- Text watermarks can be easily removed by translation.
-- We analyze and improve the cross-lingual consistency of text watermarks.
-</div>
-</div>
+  **Zhiwei He**, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='papers/he2024improving/fig.png' alt="he2024improving" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model](https://arxiv.org/abs/2401.12873)
+  ``NAACL 2024`` \| <a href='https://github.com/zwhe99/FeedbackMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024improving">BIB</button> <a href='papers/he2024improving/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he2024improving/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
-
-**Zhiwei He**, Xing Wang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang, Shuming Shi, Zhaopeng Tu
-
-<a href='https://github.com/zwhe99/FeedbackMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024improving">BIB</button> <a href='papers/he2024improving/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he2024improving/slide.pdf'><button class="slide-btn">SLIDE</button></a>
-
-- We identify the *overoptimization* problem when using QE-based reward models for training translation model.
-- We address it with a simple yet effective method.
-</div>
-</div>
+  * We identify the *overoptimization* problem when using QE-based reward models for training translation model.
+  * We address it with a simple yet effective method.
+<br>
+<br>
 
 - [Exploring Human-Like Translation Strategy with Large Language Models](https://arxiv.org/abs/2305.04118)
 
@@ -133,6 +139,8 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
   * We propose MAPS, the first machine translation system that mimics human translation strategies.
   * Outperforms WMT22 winners in 5 out of 11 translation directions.
   * [Media coverage](https://slator.com/how-large-language-models-mimic-human-translation-process/)
+<br>
+<br>
 
 - [Tencent AI Lab-Shanghai Jiao Tong University Low-Resource Translation System for the WMT22 Translation Task](https://arxiv.org/abs/2210.08742)
 
@@ -143,6 +151,8 @@ Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Y
   * Machine translation system for [Livonian](https://en.wikipedia.org/wiki/Livonian_language)
   * 🥇1st place for English$\Rightarrow$Livonian (unconstrained system)
   * 🥈2nd place for Livonian$\Rightarrow$English (unconstrained system)
+<br>
+<br>
 
 - [Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation](https://arxiv.org/abs/2203.08394)
 
