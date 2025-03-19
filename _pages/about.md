@@ -88,6 +88,14 @@ o1-like models overthink, which:
 
 # 📝 Selected publications 
 \* denotes co-first authors
+- [RaSA: Rank-Sharing Low-Rank Adaptation](https://arxiv.org/abs/2503.12576)
+
+  **Zhiwei He**, Zhaopeng Tu, Xing Wang, Xingyu Chen, Zhijie Wang, Jiahao Xu, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang
+
+  ``ICLR 2025`` \| <a href='https://github.com/zwhe99/RaSA'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2025rasa">BIB</button>
+<br>
+<br>
+
 - [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019)
 
   Tongxin Yuan\*, **Zhiwei He**\*, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu, Binglin Zhou, Fangqi Li, Zhuosheng Zhang, Rui Wang, Gongshen Liu
