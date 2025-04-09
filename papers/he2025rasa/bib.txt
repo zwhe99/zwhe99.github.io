@@ -1,0 +1,8 @@
+@inproceedings{
+he2025rasa,
+title={Ra{SA}: Rank-Sharing Low-Rank Adaptation},
+author={Zhiwei He and Zhaopeng Tu and Xing Wang and Xingyu Chen and Zhijie Wang and Jiahao Xu and Tian Liang and Wenxiang Jiao and Zhuosheng Zhang and Rui Wang},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=GdXI5zCoAt}
+}
