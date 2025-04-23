@@ -24,6 +24,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 **Large and Efficient Reasoning Models**
 
+* DeepMath-103K [Preprint]
 * Underthinking issue in o1-like models [Preprint]
 * Overthinking issue in o1-like models [Preprint]
 * Rank-sharing LoRA [ICLR 2025]
@@ -42,6 +43,8 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
+- *2025.04*: 🇸🇬🇸🇬 Attended [ICLR 2025](https://iclr.cc/Conferences/2025) @ Singapore.
+- *2025.04*: 🎓🎓 Released [DeepMath-103K](https://huggingface.co/datasets/zwhe99/DeepMath-103K), a large-scale, challenging, decontaminated, and verifiable math dataset for advancing reasoning.
 - *2025.01*: 🤯🤯 Revealed underthinking issue in o1-like models ([preprint](https://arxiv.org/abs/2501.18585)).
 - *2024.12*: 🎉🎉 One paper about parameter-efficient fine-tuning accepted by [ICLR 2025](https://iclr.cc/Conferences/2025).
 - *2024.12*: 🤯🤯 Revealed overthinking issue in o1-like models ([preprint](https://arxiv.org/abs/2412.21187)).
@@ -56,35 +59,34 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 <span class='anchor' id='preprints'></span>
 # 🖨️ Selected preprints
 \* denotes co-first authors
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='papers/wang2025thought/fig.png' alt="wang2025thought" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='papers/deepmath/fig.png' alt="deepmath" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585)
+[DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning](https://arxiv.org/abs/2504.11456)
 
-<font size=2>Yue Wang*, Qiuzhi Liu*, Jiahao Xu*, Tian Liang*, Xingyu Chen*, <b>Zhiwei He</b>*, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu</font>
+<font size=2><b>Zhiwei He*</b>, Tian Liang*, Jiahao Xu*, Qiuzhi Liu, Xingyu Chen, Yue Wang, Linfeng Song, Dian Yu, Zhenwen Liang, Wenxuan Wang, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu</font>
 
-<button class="copy-btn" data-bib-file="wang2025thought">BIB</button>
+<a href='https://github.com/zwhe99/DeepMath'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="deepmath">BIB</button> <a href='https://huggingface.co/datasets/zwhe99/DeepMath-103K'><button class="home-btn">DATA</button></a>
 
-o1-like models underthink, which:
-  1. Occur more frequently on harder problems,
-  2. Lead to frequent switching between thoughts without reaching a conclusion,
-  3. Correlate with incorrect responses due to insufficient exploration.
+* Challenging math dataset with verifiable answers.
+* Top trending dataset on HuggingFace.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='papers/chen2024not/fig.png' alt="chen2024not" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
+- [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585)
 
-<font size=2>Xingyu Chen*, Jiahao Xu*, Tian Liang*, <b>Zhiwei He</b>*, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu</font>
+  Yue Wang\*, Qiuzhi Liu\*, Jiahao Xu\*, Tian Liang\*, Xingyu Chen\*, **Zhiwei He**\*, Linfeng Song, Dian Yu, Juntao Li, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
 
-<button class="copy-btn" data-bib-file="chen2024not">BIB</button>
+  ``arXiv 2025`` \| <button class="copy-btn" data-bib-file="wang2025thought">BIB</button>
+<br>
+<br>
 
-o1-like models overthink, which:
-  1. Contribute minimally to accuracy.
-  2. Lack diversity in reasoning strategies.
-  3. Occur more frequently with simple problems.
-</div>
-</div>
+- [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
+
+  Xingyu Chen\*, Jiahao Xu\*, Tian Liang\*, **Zhiwei He**\*, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
+
+  ``arXiv 2024`` \| <button class="copy-btn" data-bib-file="chen2024not">BIB</button>
+<br>
+<br>
 
 # 📝 Selected publications 
 \* denotes co-first authors
@@ -92,7 +94,9 @@ o1-like models overthink, which:
 
   **Zhiwei He**, Zhaopeng Tu, Xing Wang, Xingyu Chen, Zhijie Wang, Jiahao Xu, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang
 
-  ``ICLR 2025`` \| <a href='https://github.com/zwhe99/RaSA'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2025rasa">BIB</button>
+  ``ICLR 2025`` \| <a href='https://github.com/zwhe99/RaSA'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2025rasa">BIB</button> <a href='papers/he2025rasa/poster.pdf'><button class="poster-btn">POSTER</button></a>
+
+  * We show how sharing ranks across layers significantly improves LoRA's expressive capacity for efficient LLM adaptation.
 <br>
 <br>
 
@@ -110,7 +114,7 @@ o1-like models overthink, which:
 
   Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
 
-  ``EMNLP 2024`` \| <a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button>
+  ``EMNLP 2024`` \| <a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button> <a href='papers/liang2023encouraging/poster.pdf'><button class="poster-btn">POSTER</button></a>
 
   * We propose a multi-agent debate framework with large language models.
 <br>
