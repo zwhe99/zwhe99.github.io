@@ -26,7 +26,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 * DeepMath-103K [Preprint]
 * Underthinking issue in o1-like models [Preprint]
-* Overthinking issue in o1-like models [Preprint]
+* Overthinking issue in o1-like models [ICML 2025]
 * Rank-sharing LoRA [ICLR 2025]
 
 **Autonomous Agent powered by Large Language Models**
