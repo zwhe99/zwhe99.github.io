@@ -43,6 +43,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 # 🔥 News
+- *2025.05*: 🎉🎉 One paper about model overthinking accepted by [ICML 2025](https://icml.cc/).
 - *2025.04*: 🇸🇬🇸🇬 Attended [ICLR 2025](https://iclr.cc/Conferences/2025) @ Singapore.
 - *2025.04*: 🎓🎓 Released [DeepMath-103K](https://huggingface.co/datasets/zwhe99/DeepMath-103K), a large-scale, challenging, decontaminated, and verifiable math dataset for advancing reasoning.
 - *2025.01*: 🤯🤯 Revealed underthinking issue in o1-like models ([preprint](https://arxiv.org/abs/2501.18585)).
@@ -80,16 +81,18 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 <br>
 <br>
 
+# 📝 Selected publications 
+\* denotes co-first authors
 - [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
 
   Xingyu Chen\*, Jiahao Xu\*, Tian Liang\*, **Zhiwei He**\*, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
 
-  ``arXiv 2024`` \| <button class="copy-btn" data-bib-file="chen2024not">BIB</button>
+  ``ICML 2025`` \| <button class="copy-btn" data-bib-file="chen2024not">BIB</button>
+
+  * Reasoning models ofter overthinks, which contribute minimally to improving accuracy.
 <br>
 <br>
 
-# 📝 Selected publications 
-\* denotes co-first authors
 - [RaSA: Rank-Sharing Low-Rank Adaptation](https://arxiv.org/abs/2503.12576)
 
   **Zhiwei He**, Zhaopeng Tu, Xing Wang, Xingyu Chen, Zhijie Wang, Jiahao Xu, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang
