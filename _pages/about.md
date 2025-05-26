@@ -97,7 +97,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
   **Zhiwei He**, Zhaopeng Tu, Xing Wang, Xingyu Chen, Zhijie Wang, Jiahao Xu, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang
 
-  ``ICLR 2025`` \| <a href='https://github.com/zwhe99/RaSA'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2025rasa">BIB</button> <a href='papers/he2025rasa/poster.pdf'><button class="poster-btn">POSTER</button></a>
+  ``ICLR 2025`` \| <a href='https://github.com/zwhe99/RaSA'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2025rasa">BIB</button> <a href='papers/he2025rasa/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/he2025rasa/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
   * We show how sharing ranks across layers significantly improves LoRA's expressive capacity for efficient LLM adaptation.
 <br>
