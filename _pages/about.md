@@ -117,7 +117,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
   Tian Liang\*, **Zhiwei He**\*, Wenxiang Jiao\*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
 
-  ``EMNLP 2024`` \| <a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button> <a href='papers/liang2023encouraging/poster.pdf'><button class="poster-btn">POSTER</button></a>
+  ``EMNLP 2024`` \| <a href='https://github.com/Skytliang/Multi-Agents-Debate'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="liang2023encouraging">BIB</button> <a href='papers/liang2023encouraging/poster.pdf'><button class="poster-btn">POSTER</button></a> <a href='papers/liang2023encouraging/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
   * We propose a multi-agent debate framework with large language models.
 <br>
