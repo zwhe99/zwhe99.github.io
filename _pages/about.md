@@ -183,7 +183,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 - *2018, 2019*: First Class Scholarship.
 
 # 💬 Invited Talks
-- *2025.05*: RaSA: Rank-Sharing Low-Rank Adaptation, 腾讯混元ICLR前沿论文分享 \| [\[video\]](https://b23.tv/e7NCKTv) [\[slide\]](talks/AITIME/underthinking_ai_time.pdf)
+- *2025.05*: RaSA: Rank-Sharing Low-Rank Adaptation, 腾讯混元ICLR前沿论文分享 \| [\[slide\]](talks/HUNYUAN/rasa.pdf)
 - *2024.07*: Can Watermarks Survive Translation, AITIME \| [\[video\]](https://b23.tv/e7NCKTv) [\[slide\]](talks/AITIME/cross_lingual_watermark_ai_time.pdf)
 - *2023.11*: Improving Machine Translation with Human Strategy and Feedback, CJNLP \| [\[slide\]](talks/CJNLP/CJNLP.pdf)
 - *2022.08*: Unsupervised Neural Machine Translation, CCKS 2022
