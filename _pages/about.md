@@ -69,8 +69,9 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 <a href='https://github.com/zwhe99/DeepMath'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="deepmath">BIB</button> <a href='https://huggingface.co/datasets/zwhe99/DeepMath-103K'><button class="home-btn">DATA</button></a> <a href='papers/deepmath/slide.pdf'><button class="slide-btn">SLIDE</button></a>
 
 
-* Challenging math dataset with verifiable answers.
-* 🔥Top trending dataset on HuggingFace (30,000+ downloads).
+* 💪🏻 Challenging math dataset with verifiable answers.
+* 🔥 Top trending dataset on HuggingFace (30,000+ downloads).
+* 📈 SOTA on math reasoning benchmarks.
 </div>
 </div>
 
