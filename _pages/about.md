@@ -66,7 +66,8 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 <font size=2><b>Zhiwei He*</b>, Tian Liang*, Jiahao Xu*, Qiuzhi Liu, Xingyu Chen, Yue Wang, Linfeng Song, Dian Yu, Zhenwen Liang, Wenxuan Wang, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu</font>
 
-<a href='https://github.com/zwhe99/DeepMath'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="deepmath">BIB</button> <a href='https://huggingface.co/datasets/zwhe99/DeepMath-103K'><button class="home-btn">DATA</button></a>
+<a href='https://github.com/zwhe99/DeepMath'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="deepmath">BIB</button> <a href='https://huggingface.co/datasets/zwhe99/DeepMath-103K'><button class="home-btn">DATA</button></a> <a href='papers/deepmath/slide.pdf'><button class="slide-btn">SLIDE</button></a>
+
 
 * Challenging math dataset with verifiable answers.
 * Top trending dataset on HuggingFace.
@@ -181,6 +182,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 - *2018, 2019*: First Class Scholarship.
 
 # 💬 Invited Talks
+- *2025.05*: RaSA: Rank-Sharing Low-Rank Adaptation, 腾讯混元ICLR前沿论文分享 \| [\[video\]](https://b23.tv/e7NCKTv) [\[slide\]](talks/AITIME/underthinking_ai_time.pdf)
 - *2024.07*: Can Watermarks Survive Translation, AITIME \| [\[video\]](https://b23.tv/e7NCKTv) [\[slide\]](talks/AITIME/cross_lingual_watermark_ai_time.pdf)
 - *2023.11*: Improving Machine Translation with Human Strategy and Feedback, CJNLP \| [\[slide\]](talks/CJNLP/CJNLP.pdf)
 - *2022.08*: Unsupervised Neural Machine Translation, CCKS 2022
