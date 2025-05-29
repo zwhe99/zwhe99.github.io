@@ -70,7 +70,7 @@ I am a forth-year PhD student (2021 - present) of [Department of Computer Scienc
 
 
 * Challenging math dataset with verifiable answers.
-* Top trending dataset on HuggingFace.
+* 🔥Top trending dataset on HuggingFace (30,000+ downloads).
 </div>
 </div>
 
